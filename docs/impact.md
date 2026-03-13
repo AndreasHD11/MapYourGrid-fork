@@ -401,39 +401,41 @@ Disclaimer: These organisations are not affiliated with MapYourGrid nor endorse 
         
     ![map](images/impact/nigeria-se4all.jpg){: .img-border } 
 
-**Rosetta Analytics** ![Rosetta Analytics](images/impact/rosetta-logo.svg){width=50px}
+**Rosetta Analytics** ![Rosetta Analytics](images/impact/rosetta-logo.svg){width=80px}
 ??? "Network Map. (Click Me)" 
     
     [**Link to website**](https://networkmap.energy/)
         
     ![map](images/impact/Rosetta-networkmap.jpg){: .img-border } 
 
-**Atlas** ![Atlas](images/impact/Atlas-logo-dark.svg){width=40px}
+**Atlas** ![Atlas](images/impact/Atlas-logo-dark.svg){width=80px}
 ??? "Power Grid Layer eg. Africa Electricity Grid. (Click Me)" 
     
     [**Link to website**](https://atlas.co/maps/africa-electricity-grid)
         
     ![map](images/impact/atlas-osm.jpg){: .img-border } 
 
-**MapStand** ![MapStand](images/impact/MapStand.svg){width=40px}
+**MapStand** ![MapStand](images/impact/MapStand.svg){width=80px}
 ??? "Global Spatial Data for the Energy Transition. (Click Me)" 
     
     [**Link to website**](https://mapstand.com/)
         
     ![map](images/impact/mapstand-dashboard.jpeg){: .img-border } 
 
-**Continuum Industries** ![Continuum Industries](images/impact/continuum-industries.jpeg){width=40px}
+**Continuum Industries** ![Continuum Industries](images/impact/continuum-industries.jpeg){width=80px}
 ??? "Optimize planning for your transmission, pipeline routing and site selection projects. (Click Me)" 
     
     [**Link to website**](https://www.continuum.industries/en-us)
         
     ![map](images/impact/Optioneer.jpg){: .img-border } 
 
-**BirdView** ![BirdView](images/impact/birdview.jpeg){width=40px}
-??? "Birdview Energy - Investment-grade BESS revenue and grid risk assessment before FID" 
+**PowerGEM** ![PowerGEM](images/impact/powergem-logo.jpeg){width=80px}
+??? "Optimize planning for your transmission, pipeline routing and site selection projects. (Click Me)" 
+    
+    [**Link to website**](https://power-gem.co/software/tara-software/)
+        
+    ![map](images/impact/powergem.jpeg){: .img-border } 
 
-    [**Link to website**](https://birdviewenergy.ai/)
-    ![map](images/birdview.jpg){: .img-border } 
 
 
 ## **<div class="tools-header">Responsible Grid Mapping: Understanding Risks and Mitigation</div>**
